@@ -25,23 +25,13 @@
 
 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker">
+  <img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws">
+  <img src="https://img.shields.io/badge/Spark-000?style=for-the-badge&logo=apachespark">
+  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql">
+</p>
 
 <h3 align="left">Repositório de Projetos</h3>
 
