@@ -10,9 +10,9 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/telesengenharia79-hash/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/telesengenharia79-hash/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/telesengenharia79-hash/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
 
@@ -20,8 +20,8 @@
 <p align="left">🌍 Sou de Aracaju, Brasil<br>🎓 Estudante de Ciência da Computação<br>⚡ Backend com interesse em dados.<br>🎯 Foco em spark , docker , anaconda , aws , git , python , sql <br>✨ Criando projetos para aprimorar minhas habilidades</p>
 
 
-
-<h3 align="left">Linguagens e Ferramentas</h3>
+<h3 align="center">Linguagens e Ferramentas</h3>
+<div align="center">
 
 
 
