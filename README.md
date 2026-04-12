@@ -19,10 +19,8 @@
 
 <p align="left">🌍 Sou de Aracaju, Brasil<br>🎓 Estudante de Ciência da Computação<br>⚡ Backend com interesse em dados.<br>🎯 Foco em spark , docker , anaconda , aws , git , python , sql <br>✨ Criando projetos para aprimorar minhas habilidades</p>
 
-
-<h3 align="center">Linguagens e Ferramentas</h3>
-<div align="center">
-
+<h3 align="left">Linguagens e Ferramentas</h3>
+<div align="left">
 
 
 
