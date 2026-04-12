@@ -67,5 +67,8 @@
 
 <div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt"
+    width="100%"
+  />
 </div>
