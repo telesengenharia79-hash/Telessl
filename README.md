@@ -55,7 +55,6 @@
 <p align="center">
 🔹 Pipeline de Dados com Spark <br>
 🔹 API REST com Python + Docker <br>
-🔹 Projeto com deploy na AWS <br>
 </p>
 
 
