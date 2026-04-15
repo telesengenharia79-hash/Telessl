@@ -50,7 +50,7 @@
 <h3 align="left">Repositório de Projetos</h3>
 
 <p align="left">Backend - Desenvolvimento de APIs, lógica de servidor e integração de sistemas.<br>Anaconda - Gerenciamento de ambientes, pacotes e projetos de ciência de dados.<br>Git - Controle de versão, versionamento de código e colaboração em equipe.<br>Docker - Criação e gerenciamento de containers para aplicações.<br>Spark - Processamento de dados em larga escala e computação distribuída.<br>AWS - Serviços de cloud computing, deploy e infraestrutura escalável.</p>
-<h3 align="center">🚀 Projetos em Destaque</h3>
+<h3 align="center">
 
 </p>
 
