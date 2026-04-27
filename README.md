@@ -53,7 +53,7 @@
 <h3 align="center">Projetos</h3>
 
 </p>
-<p align="center">🚀 1. Projetos de ETL<br>🌐 2. Projetos com API<br>🗄️ 3. Projetos com Banco de Dados</p>
+<p align="center"> 1. Projetos de ETL<br> 2. Projetos com API<br> 3. Projetos com Banco de Dados</p>
 
 <div>
 <div align="center">
