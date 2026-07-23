@@ -19,9 +19,8 @@
 
 🌍 Aracaju - Brasil  
 🎓 Ciência da Computação  
-💻 Foco em Backend e Engenharia de Dados  
+💻 Engenharia de Dados  
 ⚡ Stack: Spark, Docker, AWS, Python, SQL  
-🚀 Sempre construindo projetos e evoluindo  
 
 </p>
 <h3 align="left">Linguagens e Ferramentas</h3>
@@ -30,8 +29,6 @@
 
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
