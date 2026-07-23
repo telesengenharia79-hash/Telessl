@@ -44,18 +44,7 @@
 
 <h3 align="left">Repositório de Projetos</h3>
 
-<p align="left">Backend - Desenvolvimento de APIs, lógica de servidor e integração de sistemas.<br>Anaconda - Gerenciamento de ambientes, pacotes e projetos de ciência de dados.<br>Git - Controle de versão, versionamento de código e colaboração em equipe.<br>Docker - Criação e gerenciamento de containers para aplicações.<br>Spark - Processamento de dados em larga escala e computação distribuída.<br>AWS - Serviços de cloud computing, deploy e infraestrutura escalável.</p>
+<p align="left">Git - Controle de versão, versionamento de código e colaboração em equipe.<br>Docker - Criação e gerenciamento de containers para aplicações.<br>Spark - Processamento de dados em larga escala e computação distribuída.<br>AWS - Serviços de cloud computing, deploy e infraestrutura escalável.</p>
 <h3 align="center">
   
-<h3 align="center">Projetos</h3>
 
-</p>
-<p align="center"> 1. Projetos de ETL<br> 2. Projetos com API<br> 3. Projetos com Banco de Dados</p>
-
-<div>
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt"
-    width="100%"
-  />
-</div>
