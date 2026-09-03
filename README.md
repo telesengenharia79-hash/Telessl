@@ -20,18 +20,3 @@
 🌍 Aracaju - Brasil  
 🎓 Ciência da Computação  
 💻 Engenharia de Dados  
-⚡ Stack: Spark, Docker, AWS, Python, SQL  
-
-</p>
-<h3 align="left">Linguagens e Ferramentas</h3>
-<div align="left">
-
-
-
-
-<h3 align="left">Repositório de Projetos</h3>
-
-<p align="left">Git - Controle de versão, versionamento de código e colaboração em equipe.<br>Docker - Criação e gerenciamento de containers para aplicações.<br>Spark - Processamento de dados em larga escala e computação distribuída.<br>AWS - Serviços de cloud computing, deploy e infraestrutura escalável.</p>
-<h3 align="center">
-  
-
