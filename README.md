@@ -40,7 +40,7 @@ Estou em transição para a área de dados e aprendo construindo. Meu foco é es
 
 ## 🚀 Projeto em destaque
 
-### 📦 [NOME-DO-PROJETO](https://github.com/SEU-USUARIO/NOME-DO-PROJETO)
+### 📦 [Pepilines de Vendas](https://github.com/SEU-USUARIO/NOME-DO-PROJETO)
 
 > Uma frase dizendo o que ele faz e qual problema resolve.
 
