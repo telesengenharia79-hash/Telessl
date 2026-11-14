@@ -39,4 +39,4 @@ Estou em transição para a área de dados e aprendo construindo. Meu foco é es
 
 ## Projeto em destaque
 
-**[Pipeline de Vendas](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO)**: pipeline de dados de vendas, feito com Python e SQL.
+**Pipeline de Vendas**: pipeline de dados de vendas, feito com Python , Pandas e Sql.
