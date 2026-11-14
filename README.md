@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/SEU-USUARIO">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.instagram.com/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -39,13 +39,4 @@ Estou em transição para a área de dados e aprendo construindo. Meu foco é es
 
 ## Projeto em destaque
 
-**[NOME-DO-PROJETO](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO)**: DESCRIÇÃO EM UMA FRASE do que ele faz. Feito com Python e SQL.
-
----
-
-## Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true" height="150" alt="Estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true" height="150" alt="Linguagens mais usadas" />
-</p>
+**[Pipeline de Vendas](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO)**: pipeline de dados de vendas, feito com Python e SQL.
